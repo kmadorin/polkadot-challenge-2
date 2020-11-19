@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/polkadot-challenge-2/precache-manifest.a3df43f5c2c30f26da92a9c6ea119817.js"
+  "/polkadot-challenge-2/precache-manifest.e8b988996c1da5b59a544f49dbe88c52.js"
 );
 
 self.addEventListener('message', (event) => {
