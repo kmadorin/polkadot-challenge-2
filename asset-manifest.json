@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/polkadot-challenge-2/static/js/main.ab8e8955.chunk.js",
-    "main.js.map": "/polkadot-challenge-2/static/js/main.ab8e8955.chunk.js.map",
+    "main.js": "/polkadot-challenge-2/static/js/main.0c26cd28.chunk.js",
+    "main.js.map": "/polkadot-challenge-2/static/js/main.0c26cd28.chunk.js.map",
     "runtime-main.js": "/polkadot-challenge-2/static/js/runtime-main.abc363e1.js",
     "runtime-main.js.map": "/polkadot-challenge-2/static/js/runtime-main.abc363e1.js.map",
     "static/css/2.d230b0eb.chunk.css": "/polkadot-challenge-2/static/css/2.d230b0eb.chunk.css",
-    "static/js/2.e54831f8.chunk.js": "/polkadot-challenge-2/static/js/2.e54831f8.chunk.js",
-    "static/js/2.e54831f8.chunk.js.map": "/polkadot-challenge-2/static/js/2.e54831f8.chunk.js.map",
+    "static/js/2.c5adc8fa.chunk.js": "/polkadot-challenge-2/static/js/2.c5adc8fa.chunk.js",
+    "static/js/2.c5adc8fa.chunk.js.map": "/polkadot-challenge-2/static/js/2.c5adc8fa.chunk.js.map",
     "index.html": "/polkadot-challenge-2/index.html",
-    "precache-manifest.bc801ca266b4b492c14859adb5fe1cc5.js": "/polkadot-challenge-2/precache-manifest.bc801ca266b4b492c14859adb5fe1cc5.js",
+    "precache-manifest.df99dad44cf814470a2a89b4fd777953.js": "/polkadot-challenge-2/precache-manifest.df99dad44cf814470a2a89b4fd777953.js",
     "service-worker.js": "/polkadot-challenge-2/service-worker.js",
     "static/css/2.d230b0eb.chunk.css.map": "/polkadot-challenge-2/static/css/2.d230b0eb.chunk.css.map",
-    "static/js/2.e54831f8.chunk.js.LICENSE.txt": "/polkadot-challenge-2/static/js/2.e54831f8.chunk.js.LICENSE.txt",
+    "static/js/2.c5adc8fa.chunk.js.LICENSE.txt": "/polkadot-challenge-2/static/js/2.c5adc8fa.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/polkadot-challenge-2/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.abc363e1.js",
     "static/css/2.d230b0eb.chunk.css",
-    "static/js/2.e54831f8.chunk.js",
-    "static/js/main.ab8e8955.chunk.js"
+    "static/js/2.c5adc8fa.chunk.js",
+    "static/js/main.0c26cd28.chunk.js"
   ]
 }
