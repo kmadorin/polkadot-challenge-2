@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6211a006ec6cb420d9ba58324cfd23d1",
+    "revision": "f04bb25cd2c16091bfed7ebe3e815386",
     "url": "/polkadot-challenge-2/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polkadot-challenge-2/static/js/2.c5adc8fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b87b17ee2fe48d1422d",
-    "url": "/polkadot-challenge-2/static/js/main.0c26cd28.chunk.js"
+    "revision": "1f29309cc6cd99ba35ca",
+    "url": "/polkadot-challenge-2/static/js/main.c4bc4766.chunk.js"
   },
   {
     "revision": "02433f120fc2cca173bb",
